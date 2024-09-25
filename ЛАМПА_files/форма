@@ -1,0 +1,8 @@
+<form id="order_form" class="main-order-form m1-form order_form" action="./ЛАМПА_files/thank_you_page.html" method="POST">
+			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+			<input type="text" class="field" name="name" placeholder="Ваше ім&#39;я" required="">
+			<input type="tel" class="field" name="phone" minlength="10" maxlength="15" placeholder="Ввeдіть Вaш тeлeфoн" required="" pattern="((\+38)?\(?\d{3}\)?[\s\.-]?(\d{7}|\d{3}[\s\.-]\d{2}[\s\.-]\d{2}|\d{3}-\d{4}))">
+			<button class="button-m button btn">ЗАМОВИТИ ЗАРАЗ</button>
+			<input type="hidden" name="_csrf" value="wObQmJu57_me4NDifOl0JyMMTSfJUPwQ-CfCLAtGcOWav_3Q8I-Lm_Svgq0qtj51RFUGTY0xjiiqeJZLb2s5iA==">
+		</form>
+      </section>
